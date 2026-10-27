@@ -342,7 +342,7 @@
   ],
   "canvas_banner": {
     "src": "media/canvas-banner.png",
-    "width": 480,
+    "width": 1000,
     "height": 96,
     "alt": {
       "en": "Infinite canvas banner",
