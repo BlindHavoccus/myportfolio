@@ -1,0 +1,65 @@
+{
+  "_comment": "Typography: the same layout as the other gallery types. Each item is one design. Any text can be written as { en, es, pt }.",
+  "items": [
+    {
+      "src": "media/typo-01.svg",
+      "alt": "Typography 1",
+      "caption": "Typography 01",
+      "description": {
+        "en": "Describe the design: the typeface, the idea behind it and where it was used.",
+        "es": "Describe el diseño: la tipografía, la idea detrás y dónde se usó.",
+        "pt": "Descreva o desenho: a tipografia, a ideia por trás dele e onde foi usado."
+      }
+    },
+    {
+      "src": "media/typo-02.svg",
+      "alt": "Typography 2",
+      "caption": "Typography 02",
+      "description": {
+        "en": "Describe the design: the typeface, the idea behind it and where it was used.",
+        "es": "Describe el diseño: la tipografía, la idea detrás y dónde se usó.",
+        "pt": "Descreva o desenho: a tipografia, a ideia por trás dele e onde foi usado."
+      }
+    },
+    {
+      "src": "media/typo-03.svg",
+      "alt": "Typography 3",
+      "caption": "Typography 03",
+      "description": {
+        "en": "Describe the design: the typeface, the idea behind it and where it was used.",
+        "es": "Describe el diseño: la tipografía, la idea detrás y dónde se usó.",
+        "pt": "Descreva o desenho: a tipografia, a ideia por trás dele e onde foi usado."
+      }
+    },
+    {
+      "src": "media/typo-04.svg",
+      "alt": "Typography 4",
+      "caption": "Typography 04",
+      "description": {
+        "en": "Describe the design: the typeface, the idea behind it and where it was used.",
+        "es": "Describe el diseño: la tipografía, la idea detrás y dónde se usó.",
+        "pt": "Descreva o desenho: a tipografia, a ideia por trás dele e onde foi usado."
+      }
+    },
+    {
+      "src": "media/typo-05.svg",
+      "alt": "Typography 5",
+      "caption": "Typography 05",
+      "description": {
+        "en": "Describe the design: the typeface, the idea behind it and where it was used.",
+        "es": "Describe el diseño: la tipografía, la idea detrás y dónde se usó.",
+        "pt": "Descreva o desenho: a tipografia, a ideia por trás dele e onde foi usado."
+      }
+    },
+    {
+      "src": "media/typo-06.svg",
+      "alt": "Typography 6",
+      "caption": "Typography 06",
+      "description": {
+        "en": "Describe the design: the typeface, the idea behind it and where it was used.",
+        "es": "Describe el diseño: la tipografía, la idea detrás y dónde se usó.",
+        "pt": "Descreva o desenho: a tipografia, a ideia por trás dele e onde foi usado."
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "_comment": "Shop: each item is a product you sell elsewhere. The site never takes payment: 'link' goes to the page where people buy it. 'body' explains the product (paragraphs separated by a blank line). Any text can be written as { en, es, pt }.",
+  "kicker": {
+    "en": "Courses, imagery & more",
+    "es": "Cursos, imágenes y más",
+    "pt": "Cursos, imagens e mais"
+  },
+  "heading": {
+    "en": "Shop",
+    "es": "Tienda",
+    "pt": "Loja"
+  },
+  "intro": {
+    "en": "Products I have made to help you learn and draw. Open one to read what it includes before you buy. Purchases happen on each seller's website.",
+    "es": "Productos que he creado para ayudarte a aprender y dibujar. Abre uno para leer qué incluye antes de comprar. Las compras se realizan en la web de cada vendedor.",
+    "pt": "Produtos que criei para ajudar você a aprender e desenhar. Abra um para ler o que inclui antes de comprar. As compras são feitas no site de cada vendedor."
+  },
+  "items": [
+    {
+      "id": "light-course",
+      "kind": { "en": "Online course", "es": "Curso online", "pt": "Curso online" },
+      "name": {
+        "en": "Light and shadow, step by step",
+        "es": "Luz y sombra, paso a paso",
+        "pt": "Luz e sombra, passo a passo"
+      },
+      "cover": "media/shop-01.svg",
+      "summary": {
+        "en": "A six-lesson course on planning light and building form with graphite.",
+        "es": "Un curso de seis lecciones sobre cómo planificar la luz y construir la forma con grafito.",
+        "pt": "Um curso de seis aulas sobre como planejar a luz e construir a forma com grafite."
+      },
+      "body": {
+        "en": "What it is: a video course with six lessons and printable exercises.\n\nWho it is for: people who already draw and want a clearer method for shadows.\n\nWhat you get: lifetime access, the exercise sheets and the reference drawings.",
+        "es": "Qué es: un curso en vídeo con seis lecciones y ejercicios para imprimir.\n\nPara quién es: personas que ya dibujan y quieren un método más claro para las sombras.\n\nQué incluye: acceso de por vida, las hojas de ejercicios y los dibujos de referencia.",
+        "pt": "O que é: um curso em vídeo com seis aulas e exercícios para imprimir.\n\nPara quem é: pessoas que já desenham e querem um método mais claro para as sombras.\n\nO que inclui: acesso vitalício, as folhas de exercícios e os desenhos de referência."
+      },
+      "link": "https://example.com/light-course",
+      "button": { "en": "Buy the course", "es": "Comprar el curso", "pt": "Comprar o curso" }
+    },
+    {
+      "id": "texture-pack",
+      "kind": { "en": "Imagery pack", "es": "Pack de imágenes", "pt": "Pacote de imagens" },
+      "name": {
+        "en": "Paper and graphite textures",
+        "es": "Texturas de papel y grafito",
+        "pt": "Texturas de papel e grafite"
+      },
+      "cover": "media/shop-02.svg",
+      "summary": {
+        "en": "Thirty high-resolution scans of paper, graphite and eraser marks, ready for your projects.",
+        "es": "Treinta escaneos de alta resolución de papel, grafito y marcas de goma, listos para tus proyectos.",
+        "pt": "Trinta digitalizações em alta resolução de papel, grafite e marcas de borracha, prontas para seus projetos."
+      },
+      "body": {
+        "en": "What it is: a pack of thirty textures scanned from my own paper and drawings.\n\nWhat you get: JPG and PNG files, with a licence that covers personal and commercial use.",
+        "es": "Qué es: un pack de treinta texturas escaneadas de mi propio papel y mis dibujos.\n\nQué incluye: archivos JPG y PNG, con una licencia que cubre uso personal y comercial.",
+        "pt": "O que é: um pacote de trinta texturas digitalizadas do meu próprio papel e dos meus desenhos.\n\nO que inclui: arquivos JPG e PNG, com licença para uso pessoal e comercial."
+      },
+      "link": "https://example.com/texture-pack",
+      "button": { "en": "Buy the pack", "es": "Comprar el pack", "pt": "Comprar o pacote" }
+    },
+    {
+      "id": "brush-set",
+      "kind": { "en": "Brushes", "es": "Pinceles", "pt": "Pincéis" },
+      "name": {
+        "en": "Ink and brush set",
+        "es": "Set de tinta y pinceles",
+        "pt": "Conjunto de tinta e pincéis"
+      },
+      "cover": "media/shop-03.svg",
+      "summary": {
+        "en": "Brush presets for ink lines, dry brush and soft shading, for Photoshop and Krita.",
+        "es": "Preajustes de pincel para trazos de tinta, pincel seco y sombreado suave, para Photoshop y Krita.",
+        "pt": "Predefinições de pincel para traços de nanquim, pincel seco e sombreado suave, para Photoshop e Krita."
+      },
+      "body": {
+        "en": "What it is: twelve brush presets I use in my own inking.\n\nWhat you get: the brush files for Photoshop and Krita, and a short guide on how to set them up.",
+        "es": "Qué es: doce preajustes de pincel que uso en mis propias entintadas.\n\nQué incluye: los archivos de pincel para Photoshop y Krita, y una guía breve para configurarlos.",
+        "pt": "O que é: doze predefinições de pincel que uso nas minhas próprias arte-finais.\n\nO que inclui: os arquivos de pincel para Photoshop e Krita, e um guia curto para configurá-los."
+      },
+      "link": "https://example.com/brush-set",
+      "button": { "en": "Buy the brushes", "es": "Comprar los pinceles", "pt": "Comprar os pincéis" }
+    },
+    {
+      "id": "practice-bundle",
+      "kind": { "en": "Bundle", "es": "Paquete", "pt": "Pacote" },
+      "name": { "en": "Practice bundle", "es": "Paquete de práctica", "pt": "Pacote de prática" },
+      "cover": "media/shop-04.svg",
+      "summary": {
+        "en": "The course, the texture pack and the brushes together, at a lower price.",
+        "es": "El curso, el pack de texturas y los pinceles juntos, a un precio más bajo.",
+        "pt": "O curso, o pacote de texturas e os pincéis juntos, por um preço menor."
+      },
+      "body": {
+        "en": "What it is: the three products above in one bundle.\n\nWhy buy it: it costs less than buying each one separately, and it gives you a complete set to practise with.",
+        "es": "Qué es: los tres productos anteriores en un solo paquete.\n\nPor qué comprarlo: cuesta menos que comprar cada uno por separado y te da un conjunto completo para practicar.",
+        "pt": "O que é: os três produtos anteriores em um só pacote.\n\nPor que comprar: custa menos do que comprar cada um separadamente e oferece um conjunto completo para praticar."
+      },
+      "link": "https://example.com/practice-bundle",
+      "button": { "en": "Buy the bundle", "es": "Comprar el paquete", "pt": "Comprar o pacote" }
+    }
+  ]
+}

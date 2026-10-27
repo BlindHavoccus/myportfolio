@@ -1,0 +1,125 @@
+{
+  "_comment": "Music I Love: bands I listen to, each with the albums and songs I like most. 'id' is the page address (lowercase, no spaces). Each song's 'link' must be that song's YouTube link (use your referral link). Any text can be written as { en, es, pt }.",
+  "heading": {
+    "en": "Music I Love",
+    "es": "Música que amo",
+    "pt": "Músicas que amo"
+  },
+  "intro": {
+    "en": "Bands and songs I love and listen to. This is not my work, just the music I recommend. Each song opens on YouTube.",
+    "es": "Bandas y canciones que amo y escucho. No es mi obra, es la música que recomiendo. Cada canción se abre en YouTube.",
+    "pt": "Bandas e músicas que amo e ouço. Não é trabalho meu, é a música que eu recomendo. Cada música abre no YouTube."
+  },
+  "items": [
+    {
+      "id": "radiohead",
+      "band": "Radiohead",
+      "note": {
+        "en": "The band I come back to when I need to think.",
+        "es": "La banda a la que vuelvo cuando necesito pensar.",
+        "pt": "A banda para a qual volto quando preciso pensar."
+      },
+      "albums": [
+        {
+          "title": "OK Computer",
+          "year": 1997,
+          "songs": [
+            {
+              "title": "Paranoid Android",
+              "link": "https://www.youtube.com/watch?v=PASTE_VIDEO_ID"
+            },
+            {
+              "title": "Karma Police",
+              "link": "https://www.youtube.com/watch?v=PASTE_VIDEO_ID"
+            }
+          ]
+        },
+        {
+          "title": "Kid A",
+          "year": 2000,
+          "songs": [
+            {
+              "title": "Everything In Its Right Place",
+              "link": "https://www.youtube.com/watch?v=PASTE_VIDEO_ID"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "queen",
+      "band": "Queen",
+      "note": {
+        "en": "The one I learned every harmony of.",
+        "es": "La que me aprendí armonía por armonía.",
+        "pt": "A que aprendi harmonia por harmonia."
+      },
+      "albums": [
+        {
+          "title": "A Night at the Opera",
+          "year": 1975,
+          "songs": [
+            {
+              "title": "Bohemian Rhapsody",
+              "link": "https://www.youtube.com/watch?v=PASTE_VIDEO_ID"
+            },
+            {
+              "title": "Love of My Life",
+              "link": "https://www.youtube.com/watch?v=PASTE_VIDEO_ID"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-black-keys",
+      "band": "The Black Keys",
+      "note": {
+        "en": "The riff I play when I need energy to draw.",
+        "es": "El riff que pongo cuando necesito energía para dibujar.",
+        "pt": "O riff que coloco quando preciso de energia para desenhar."
+      },
+      "albums": [
+        {
+          "title": "El Camino",
+          "year": 2011,
+          "songs": [
+            {
+              "title": "Lonely Boy",
+              "link": "https://www.youtube.com/watch?v=PASTE_VIDEO_ID"
+            },
+            {
+              "title": "Gold on the Ceiling",
+              "link": "https://www.youtube.com/watch?v=PASTE_VIDEO_ID"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pink-floyd",
+      "band": "Pink Floyd",
+      "note": {
+        "en": "For long, quiet hours at the desk.",
+        "es": "Para horas largas y tranquilas frente a la mesa de dibujo.",
+        "pt": "Para horas longas e silenciosas na mesa de desenho."
+      },
+      "albums": [
+        {
+          "title": "The Wall",
+          "year": 1979,
+          "songs": [
+            {
+              "title": "Comfortably Numb",
+              "link": "https://www.youtube.com/watch?v=PASTE_VIDEO_ID"
+            },
+            {
+              "title": "Hey You",
+              "link": "https://www.youtube.com/watch?v=PASTE_VIDEO_ID"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

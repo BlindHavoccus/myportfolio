@@ -1,0 +1,353 @@
+{
+  "name": "Your Name",
+  "logo": {
+    "src": "media/logo.svg",
+    "alt": {
+      "en": "Your Name logo",
+      "es": "Logotipo de Your Name",
+      "pt": "Logotipo de Your Name"
+    },
+    "height": 28
+  },
+  "home": {
+    "kicker": {
+      "en": "Artist · Designer · Your city",
+      "es": "Artista · Diseñador · Tu ciudad",
+      "pt": "Artista · Designer · Sua cidade"
+    },
+    "heading": {
+      "en": "Welcome to my studio",
+      "es": "Bienvenido a mi estudio",
+      "pt": "Bem-vindo ao meu estúdio"
+    },
+    "intro": {
+      "en": "Explore the work, read the notes, or find out who inspired it. Get in touch whenever you like.",
+      "es": "Explora la obra, lee las notas o descubre quién la inspiró. Escríbeme cuando quieras.",
+      "pt": "Explore os trabalhos, leia as notas ou descubra quem os inspirou. Entre em contato quando quiser."
+    },
+    "banner": {
+      "src": "media/banner.svg",
+      "alt": {
+        "en": "Banner image of my work",
+        "es": "Imagen de portada de mi obra",
+        "pt": "Imagem de capa do meu trabalho"
+      },
+      "caption": {
+        "en": "Replace with a wide image of your work, 2400 × 675 px (about 3.5 : 1).",
+        "es": "Sustituye por una imagen ancha de tu obra, 2400 × 675 px (aprox. 3,5 : 1).",
+        "pt": "Substitua por uma imagem larga do seu trabalho, 2400 × 675 px (aprox. 3,5 : 1)."
+      }
+    }
+  },
+  "footer": {
+    "text": "© {year} {name}"
+  },
+  "projects": [
+    {
+      "title": {
+        "en": "Infinite canvas",
+        "es": "Lienzo infinito",
+        "pt": "Tela infinita"
+      },
+      "route": "canvas",
+      "description": {
+        "en": "One continuous image across a grid of posts.",
+        "es": "Una imagen continua a lo largo de una cuadrícula de publicaciones.",
+        "pt": "Uma imagem contínua ao longo de uma grade de publicações."
+      }
+    },
+    {
+      "title": {
+        "en": "Gallery",
+        "es": "Galería",
+        "pt": "Galeria"
+      },
+      "route": "gallery",
+      "description": {
+        "en": "Artwork, drawings and typography, grouped by type.",
+        "es": "Obra, dibujos y tipografía, agrupados por tipo.",
+        "pt": "Obras, desenhos e tipografia, agrupados por tipo."
+      }
+    },
+    {
+      "title": {
+        "en": "Writings",
+        "es": "Textos",
+        "pt": "Textos"
+      },
+      "route": "writings",
+      "description": {
+        "en": "Tutorials, process notes and thoughts.",
+        "es": "Tutoriales, notas de proceso y reflexiones.",
+        "pt": "Tutoriais, notas de processo e reflexões."
+      }
+    }
+  ],
+  "about": {
+    "kicker": {
+      "en": "Artist · Designer · Your city",
+      "es": "Artista · Diseñador · Tu ciudad",
+      "pt": "Artista · Designer · Sua cidade"
+    },
+    "heading": {
+      "en": "Hello, I'm Your Name.",
+      "es": "Hola, soy Your Name.",
+      "pt": "Olá, eu sou Your Name."
+    },
+    "subtitle": {
+      "en": "A short line about what you make and why.",
+      "es": "Una frase breve sobre lo que creo y por qué.",
+      "pt": "Uma frase curta sobre o que eu crio e por quê."
+    },
+    "blocks": [
+      {
+        "type": "image",
+        "src": "media/about-01.svg",
+        "alt": {
+          "en": "Placeholder hero image",
+          "es": "Imagen principal de ejemplo",
+          "pt": "Imagem principal de exemplo"
+        },
+        "caption": {
+          "en": "Replace with a wide photo of you, your studio, or a finished piece.",
+          "es": "Sustituye por una foto amplia tuya, de tu estudio o de una obra terminada.",
+          "pt": "Substitua por uma foto ampla sua, do seu estúdio ou de uma obra finalizada."
+        },
+        "width": "wide"
+      },
+      {
+        "type": "lead",
+        "text": {
+          "en": "One or two sentences that sum up your practice, written so a stranger understands it in five seconds.",
+          "es": "Una o dos frases que resuman tu práctica, escritas para que un desconocido la entienda en cinco segundos.",
+          "pt": "Uma ou duas frases que resumam sua prática, escritas para que um desconhecido entenda em cinco segundos."
+        }
+      },
+      {
+        "type": "text",
+        "text": {
+          "en": "Use this first paragraph to say who you are and how you ended up making this work.\n\nThe second paragraph can describe the materials, tools, or places that shape your practice, and what you are trying to say through them.",
+          "es": "Usa este primer párrafo para decir quién eres y cómo llegaste a hacer este trabajo.\n\nEl segundo párrafo puede describir los materiales, herramientas o lugares que dan forma a tu práctica y lo que quieres expresar con ellos.",
+          "pt": "Use este primeiro parágrafo para dizer quem você é e como chegou a fazer este trabalho.\n\nO segundo parágrafo pode descrever os materiais, ferramentas ou lugares que moldam sua prática e o que você quer expressar com eles."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "en": "Practice",
+          "es": "Práctica",
+          "pt": "Prática"
+        }
+      },
+      {
+        "type": "text",
+        "text": {
+          "en": "Explain your process here: how a piece starts, how long it takes, and what happens between the first sketch and the final image.\n\nA good rule is one idea per paragraph, so the reader can move through the page like a conversation.",
+          "es": "Explica aquí tu proceso: cómo empieza una obra, cuánto tiempo lleva y qué pasa entre el primer boceto y la imagen final.\n\nUna buena regla es una idea por párrafo, para que el lector avance por la página como en una conversación.",
+          "pt": "Explique aqui seu processo: como uma obra começa, quanto tempo leva e o que acontece entre o primeiro esboço e a imagem final.\n\nUma boa regra é uma ideia por parágrafo, para que o leitor percorra a página como numa conversa."
+        }
+      },
+      {
+        "type": "image",
+        "src": "media/about-02.svg",
+        "alt": {
+          "en": "Placeholder studio image one",
+          "es": "Imagen de estudio de ejemplo uno",
+          "pt": "Imagem de estúdio de exemplo um"
+        },
+        "caption": {
+          "en": "Your studio, or a detail of your process.",
+          "es": "Tu estudio o un detalle de tu proceso.",
+          "pt": "Seu estúdio ou um detalhe do seu processo."
+        },
+        "width": "half"
+      },
+      {
+        "type": "image",
+        "src": "media/about-03.svg",
+        "alt": {
+          "en": "Placeholder studio image two",
+          "es": "Imagen de estudio de ejemplo dos",
+          "pt": "Imagem de estúdio de exemplo dois"
+        },
+        "caption": {
+          "en": "A work in progress.",
+          "es": "Una obra en proceso.",
+          "pt": "Um trabalho em andamento."
+        },
+        "width": "half"
+      },
+      {
+        "type": "quote",
+        "text": {
+          "en": "A sentence from you, or from someone who has worked with you, that captures the spirit of the work.",
+          "es": "Una frase tuya, o de alguien que haya trabajado contigo, que capture el espíritu de la obra.",
+          "pt": "Uma frase sua, ou de alguém que trabalhou com você, que capture o espírito do trabalho."
+        },
+        "by": {
+          "en": "Name, role",
+          "es": "Nombre, cargo",
+          "pt": "Nome, cargo"
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "en": "Background",
+          "es": "Trayectoria",
+          "pt": "Trajetória"
+        }
+      },
+      {
+        "type": "text",
+        "text": {
+          "en": "List the places you have studied, shown, or worked, in whatever order matters most to you. Keep it short and specific.\n\nIf you have collaborated with brands, galleries, or communities, mention them here.",
+          "es": "Enumera los lugares donde has estudiado, expuesto o trabajado, en el orden que más te importe. Sé breve y concreto.\n\nSi has colaborado con marcas, galerías o comunidades, menciónalos aquí.",
+          "pt": "Liste os lugares onde você estudou, expôs ou trabalhou, na ordem que mais importa para você. Seja breve e objetivo.\n\nSe você colaborou com marcas, galerias ou comunidades, mencione-as aqui."
+        }
+      },
+      {
+        "type": "image",
+        "src": "media/about-04.svg",
+        "alt": {
+          "en": "Placeholder image in the middle of the page",
+          "es": "Imagen de ejemplo en el centro de la página",
+          "pt": "Imagem de exemplo no meio da página"
+        },
+        "caption": {
+          "en": "Something from a project you are proud of.",
+          "es": "Algo de un proyecto del que te sientas orgulloso.",
+          "pt": "Algo de um projeto de que você se orgulha."
+        },
+        "width": "text"
+      },
+      {
+        "type": "heading",
+        "text": {
+          "en": "Working together",
+          "es": "Colaboración",
+          "pt": "Trabalho em conjunto"
+        }
+      },
+      {
+        "type": "text",
+        "text": {
+          "en": "Say how people can reach you for commissions, collaborations, or exhibitions, and what kind of work you are open to.\n\nThe Contact page has your links; this section is for the context behind them.",
+          "es": "Indica cómo pueden contactarte para encargos, colaboraciones o exposiciones, y qué tipo de trabajo aceptas.\n\nLa página de contacto tiene tus enlaces; esta sección es para el contexto que hay detrás de ellos.",
+          "pt": "Diga como as pessoas podem entrar em contato para encomendas, colaborações ou exposições, e que tipo de trabalho você aceita.\n\nA página de contato tem seus links; esta seção serve para o contexto por trás deles."
+        }
+      }
+    ]
+  },
+  "contact": {
+    "heading": {
+      "en": "Contact",
+      "es": "Contacto",
+      "pt": "Contato"
+    },
+    "intro": {
+      "en": "Find me on social media, visit the shop, or write to me directly.",
+      "es": "Encuéntrame en redes sociales, visita la tienda o escríbeme directamente.",
+      "pt": "Me encontre nas redes sociais, visite a loja ou escreva diretamente para mim."
+    },
+    "links": [
+      {
+        "kind": "instagram",
+        "label": "Instagram",
+        "detail": "@yourhandle",
+        "href": "https://instagram.com/yourhandle"
+      },
+      {
+        "kind": "youtube",
+        "label": "YouTube",
+        "detail": {
+          "en": "Your channel",
+          "es": "Tu canal",
+          "pt": "Seu canal"
+        },
+        "href": "https://youtube.com/@yourchannel"
+      },
+      {
+        "kind": "pinterest",
+        "label": "Pinterest",
+        "detail": "@yourhandle",
+        "href": "https://pinterest.com/yourhandle"
+      },
+      {
+        "kind": "shop",
+        "label": {
+          "en": "Shop",
+          "es": "Tienda",
+          "pt": "Loja"
+        },
+        "detail": {
+          "en": "Prints and originals",
+          "es": "Impresiones y originales",
+          "pt": "Impressões e originais"
+        },
+        "href": "#/shop"
+      },
+      {
+        "kind": "email",
+        "label": {
+          "en": "Email",
+          "es": "Correo",
+          "pt": "E-mail"
+        },
+        "detail": "you@example.com",
+        "href": "mailto:you@example.com"
+      }
+    ]
+  },
+  "gallery_types": [
+    {
+      "id": "artwork",
+      "title": {
+        "en": "Artwork",
+        "es": "Obra",
+        "pt": "Obras"
+      },
+      "description": {
+        "en": "Paintings and mixed media.",
+        "es": "Pinturas y técnicas mixtas.",
+        "pt": "Pinturas e técnicas mistas."
+      }
+    },
+    {
+      "id": "drawings",
+      "title": {
+        "en": "Drawings",
+        "es": "Dibujos",
+        "pt": "Desenhos"
+      },
+      "description": {
+        "en": "Traditional drawings in pencil, ink and watercolour.",
+        "es": "Dibujos tradicionales a lápiz, tinta y acuarela.",
+        "pt": "Desenhos tradicionais a lápis, nanquim e aquarela."
+      }
+    },
+    {
+      "id": "typography",
+      "title": {
+        "en": "Typography",
+        "es": "Tipografía",
+        "pt": "Tipografia"
+      },
+      "description": {
+        "en": "Lettering and type designs.",
+        "es": "Letras y diseños tipográficos.",
+        "pt": "Letras e desenhos tipográficos."
+      }
+    }
+  ],
+  "canvas_banner": {
+    "src": "media/canvas-banner.svg",
+    "width": 480,
+    "height": 96,
+    "alt": {
+      "en": "Infinite canvas banner",
+      "es": "Banner del lienzo infinito",
+      "pt": "Banner da tela infinita"
+    }
+  }
+}

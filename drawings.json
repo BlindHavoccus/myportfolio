@@ -1,0 +1,77 @@
+{
+  "_comment": "Drawings: one image per item, shown in stacked columns at its own proportions, like the Gallery. caption shows on hover and as the title in the viewer; description is the text shown beside the image.",
+  "items": [
+    {
+      "src": "media/d-01.svg",
+      "caption": "Drawing 01",
+      "alt": "Placeholder drawing 01",
+      "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.\n\nCurabitur pretium tincidunt lacus, nulla gravida orci a odio. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum, cras mattis consectetur purus sit amet fermentum.\n\nMaecenas faucibus mollis interdum, cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "src": "media/d-02.svg",
+      "caption": "Drawing 02",
+      "alt": "Placeholder drawing 02",
+      "description": "Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum, cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+    },
+    {
+      "src": "media/d-03.svg",
+      "caption": "Drawing 03",
+      "alt": "Placeholder drawing 03",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.\n\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet. Curabitur pretium tincidunt lacus, nulla gravida orci a odio.\n\nInteger posuere erat a ante venenatis dapibus posuere velit aliquet. Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum, cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit."
+    },
+    {
+      "src": "media/d-04.svg",
+      "caption": "Drawing 04",
+      "alt": "Placeholder drawing 04",
+      "description": "Curabitur pretium tincidunt lacus, nulla gravida orci a odio. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Vestibulum id ligula porta felis euismod semper."
+    },
+    {
+      "src": "media/d-05.svg",
+      "caption": "Drawing 05",
+      "alt": "Placeholder drawing 05",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.\n\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\n\nNeque porro quisquam est, qui dolorem ipsum quia dolor sit amet. Curabitur pretium tincidunt lacus, nulla gravida orci a odio. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.\n\nVestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum, cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "src": "media/d-06.svg",
+      "caption": "Drawing 06",
+      "alt": "Placeholder drawing 06",
+      "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.\n\nInteger posuere erat a ante venenatis dapibus posuere velit aliquet. Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum, cras mattis consectetur purus sit amet fermentum."
+    },
+    {
+      "src": "media/d-07.svg",
+      "caption": "Drawing 07",
+      "alt": "Placeholder drawing 07",
+      "description": "Maecenas faucibus mollis interdum, cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.\n\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.\n\nCurabitur pretium tincidunt lacus, nulla gravida orci a odio. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Vestibulum id ligula porta felis euismod semper.\n\nMaecenas faucibus mollis interdum, cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.\n\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore."
+    },
+    {
+      "src": "media/d-08.svg",
+      "caption": "Drawing 08",
+      "alt": "Placeholder drawing 08",
+      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.\n\nNeque porro quisquam est, qui dolorem ipsum quia dolor sit amet. Curabitur pretium tincidunt lacus, nulla gravida orci a odio.\n\nVestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum, cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "src": "media/d-09.svg",
+      "caption": "Drawing 09",
+      "alt": "Placeholder drawing 09",
+      "description": "Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Vestibulum id ligula porta felis euismod semper."
+    },
+    {
+      "src": "media/d-10.svg",
+      "caption": "Drawing 10",
+      "alt": "Placeholder drawing 10",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.\n\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet. Curabitur pretium tincidunt lacus, nulla gravida orci a odio."
+    },
+    {
+      "src": "media/d-11.svg",
+      "caption": "Drawing 11",
+      "alt": "Placeholder drawing 11",
+      "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet. Curabitur pretium tincidunt lacus, nulla gravida orci a odio. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Vestibulum id ligula porta felis euismod semper.\n\nVestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum, cras mattis consectetur purus sit amet fermentum.\n\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.\n\nExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet."
+    },
+    {
+      "src": "media/d-12.svg",
+      "caption": "Drawing 12",
+      "alt": "Placeholder drawing 12",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  ]
+}

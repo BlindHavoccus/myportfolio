@@ -1,0 +1,66 @@
+{
+  "_comment": "Inspirations: one entry per artist, shown at the bottom of the About page. 'photo' is a square picture, 'found' says where you discovered them, 'inspiration' is the story (paragraphs separated by a blank line), 'link' is their profile. Any text can be written as { en, es, pt }.",
+  "heading": {
+    "en": "My inspirations",
+    "es": "Mis inspiraciones",
+    "pt": "Minhas inspirações"
+  },
+  "intro": {
+    "en": "The artists whose work pushed me to start and keep going. Select a photo to read how they changed my practice.",
+    "es": "Los artistas cuya obra me impulsó a empezar y a seguir. Selecciona una foto para leer cómo cambiaron mi práctica.",
+    "pt": "Os artistas cuja obra me impulsionou a começar e a continuar. Selecione uma foto para ler como eles mudaram minha prática."
+  },
+  "items": [
+    {
+      "name": { "en": "Artist One", "es": "Artista uno", "pt": "Artista um" },
+      "field": { "en": "Watercolour", "es": "Acuarela", "pt": "Aquarela" },
+      "photo": "media/insp-01.svg",
+      "found": {
+        "en": "On a video feed late at night, in 2019.",
+        "es": "En un video en línea, una noche tarde, en 2019.",
+        "pt": "Em um vídeo na internet, tarde da noite, em 2019."
+      },
+      "inspiration": {
+        "en": "Replace this with how their work changed the way you see colour and paper.\n\nYou can describe the specific piece or habit you picked up from them, and what you tried because of it.",
+        "es": "Sustituye esto por cómo su obra cambió la forma en que ves el color y el papel.\n\nPuedes describir la obra concreta o el hábito que adoptaste y lo que probaste gracias a ella.",
+        "pt": "Substitua isto por como o trabalho dele mudou a forma como você vê a cor e o papel.\n\nVocê pode descrever a obra específica ou o hábito que adotou e o que experimentou por causa disso."
+      },
+      "link": "https://example.com/artist-one",
+      "link_label": { "en": "Artist One's site", "es": "Sitio de Artista uno", "pt": "Site de Artista um" }
+    },
+    {
+      "name": { "en": "Artist Two", "es": "Artista dos", "pt": "Artista dois" },
+      "field": { "en": "Ink illustration", "es": "Ilustración a tinta", "pt": "Ilustração a nanquim" },
+      "photo": "media/insp-02.svg",
+      "found": {
+        "en": "In a book shop, on a paper cover.",
+        "es": "En una librería, en la portada de un libro.",
+        "pt": "Em uma livraria, na capa de um livro."
+      },
+      "inspiration": {
+        "en": "Write about the line quality or the composition that stuck with you.\n\nA second paragraph can explain how it shaped the drawings you make today.",
+        "es": "Escribe sobre la calidad de la línea o la composición que se te quedó grabada.\n\nUn segundo párrafo puede explicar cómo moldeó los dibujos que haces hoy.",
+        "pt": "Escreva sobre a qualidade da linha ou a composição que ficou com você.\n\nUm segundo parágrafo pode explicar como isso moldou os desenhos que você faz hoje."
+      },
+      "link": "https://example.com/artist-two",
+      "link_label": { "en": "Artist Two's profile", "es": "Perfil de Artista dos", "pt": "Perfil de Artista dois" }
+    },
+    {
+      "name": { "en": "Artist Three", "es": "Artista tres", "pt": "Artista três" },
+      "field": { "en": "Pencil portraits", "es": "Retratos a lápiz", "pt": "Retratos a lápis" },
+      "photo": "media/insp-03.svg",
+      "found": {
+        "en": "Through a friend who showed me their sketchbook.",
+        "es": "A través de una amiga que me enseñó su cuaderno de bocetos.",
+        "pt": "Por meio de um amigo que me mostrou o caderno de esboços dele."
+      },
+      "inspiration": {
+        "en": "Explain what you learned about patience and proportion from their work.",
+        "es": "Explica qué aprendiste sobre la paciencia y la proporción en su obra.",
+        "pt": "Explique o que você aprendeu sobre paciência e proporção no trabalho dele."
+      },
+      "link": "https://example.com/artist-three",
+      "link_label": { "en": "Artist Three's page", "es": "Página de Artista tres", "pt": "Página de Artista três" }
+    }
+  ]
+}

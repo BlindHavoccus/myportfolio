@@ -1,0 +1,67 @@
+{
+  "_comment": "Writings: each item is an article. 'file' is the Markdown article for each language (en, es, pt). Use 'pdf' instead for a PDF that opens in the page. 'cover' is an optional image. Any text can be written as { en, es, pt }. Newest first.",
+  "kicker": {
+    "en": "Tutorials & thoughts",
+    "es": "Tutoriales y reflexiones",
+    "pt": "Tutoriais e reflexões"
+  },
+  "heading": {
+    "en": "Writings",
+    "es": "Textos",
+    "pt": "Textos"
+  },
+  "intro": {
+    "en": "Tutorials, process notes and thoughts. Newest first.",
+    "es": "Tutoriales, notas de proceso y reflexiones. Las más recientes primero.",
+    "pt": "Tutoriais, notas de processo e reflexões. As mais recentes primeiro."
+  },
+  "items": [
+    {
+      "id": "first-tutorial",
+      "title": {
+        "en": "My first tutorial: working with light",
+        "es": "Mi primer tutorial: trabajar con la luz",
+        "pt": "Meu primeiro tutorial: trabalhar com a luz"
+      },
+      "date": "2026-10-01",
+      "summary": {
+        "en": "How I plan where the light comes from, and how I block in the shadows before any detail.",
+        "es": "Cómo planifico de dónde viene la luz y cómo marco las sombras antes de cualquier detalle.",
+        "pt": "Como planejo de onde vem a luz e como defino as sombras antes de qualquer detalhe."
+      },
+      "tags": [
+        { "en": "tutorial", "es": "tutorial", "pt": "tutorial" },
+        { "en": "process", "es": "proceso", "pt": "processo" }
+      ],
+      "file": {
+        "en": "writings/first-tutorial.md",
+        "es": "writings/first-tutorial.es.md",
+        "pt": "writings/first-tutorial.pt.md"
+      },
+      "cover": "media/writing-01.svg"
+    },
+    {
+      "id": "thoughts-on-practice",
+      "title": {
+        "en": "Thoughts on practice",
+        "es": "Reflexiones sobre la práctica",
+        "pt": "Reflexões sobre a prática"
+      },
+      "date": "2026-10-10",
+      "summary": {
+        "en": "Why I draw the same object for a month, and what repetition teaches that new work doesn't.",
+        "es": "Por qué dibujo el mismo objeto durante un mes y qué enseña la repetición que el trabajo nuevo no enseña.",
+        "pt": "Por que desenho o mesmo objeto durante um mês e o que a repetição ensina que o trabalho novo não ensina."
+      },
+      "tags": [
+        { "en": "thoughts", "es": "reflexiones", "pt": "reflexões" }
+      ],
+      "file": {
+        "en": "writings/thoughts-on-practice.md",
+        "es": "writings/thoughts-on-practice.es.md",
+        "pt": "writings/thoughts-on-practice.pt.md"
+      },
+      "cover": "media/writing-02.svg"
+    }
+  ]
+}
