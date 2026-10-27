@@ -341,7 +341,7 @@
     }
   ],
   "canvas_banner": {
-    "src": "media/canvas-banner.png",
+    "src": "media/canvas_banner.png",
     "width": 800,
     "height": 96,
     "alt": {
